@@ -23,7 +23,7 @@ namespace project3
                         break;
                     }
                 }
-                if (flag)
+                if (flag)//输出素因子
                     Console.WriteLine(i);
             }
         }

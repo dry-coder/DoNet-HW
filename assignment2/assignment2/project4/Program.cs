@@ -39,7 +39,7 @@ namespace project4
             else
                 Console.WriteLine("No,this isn't asked one");
         }
-        static bool JudgeMetrix(int[,] arr, int n, int m)
+        static bool JudgeMetrix(int[,] arr, int n, int m)//判断是否符合要求
         {
             bool flag = true;
             int start = 0;
