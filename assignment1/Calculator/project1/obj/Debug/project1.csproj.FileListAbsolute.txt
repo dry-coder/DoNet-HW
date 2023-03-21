@@ -1,0 +1,8 @@
+D:\BC\VS_C\C#\DoNet-HW\assignment1\Calculator\project1\bin\Debug\project1.exe.config
+D:\BC\VS_C\C#\DoNet-HW\assignment1\Calculator\project1\bin\Debug\project1.exe
+D:\BC\VS_C\C#\DoNet-HW\assignment1\Calculator\project1\bin\Debug\project1.pdb
+D:\BC\VS_C\C#\DoNet-HW\assignment1\Calculator\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+D:\BC\VS_C\C#\DoNet-HW\assignment1\Calculator\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+D:\BC\VS_C\C#\DoNet-HW\assignment1\Calculator\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+D:\BC\VS_C\C#\DoNet-HW\assignment1\Calculator\project1\obj\Debug\project1.exe
+D:\BC\VS_C\C#\DoNet-HW\assignment1\Calculator\project1\obj\Debug\project1.pdb
