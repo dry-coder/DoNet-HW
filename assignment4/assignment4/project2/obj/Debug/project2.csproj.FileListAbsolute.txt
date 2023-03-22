@@ -1,8 +1,0 @@
-D:\BC\VS_C\C#\DoNet-HW-\assignment4\assignment4\project2\bin\Debug\project2.exe.config
-D:\BC\VS_C\C#\DoNet-HW-\assignment4\assignment4\project2\bin\Debug\project2.exe
-D:\BC\VS_C\C#\DoNet-HW-\assignment4\assignment4\project2\bin\Debug\project2.pdb
-D:\BC\VS_C\C#\DoNet-HW-\assignment4\assignment4\project2\obj\Debug\project2.csproj.AssemblyReference.cache
-D:\BC\VS_C\C#\DoNet-HW-\assignment4\assignment4\project2\obj\Debug\project2.csproj.SuggestedBindingRedirects.cache
-D:\BC\VS_C\C#\DoNet-HW-\assignment4\assignment4\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
-D:\BC\VS_C\C#\DoNet-HW-\assignment4\assignment4\project2\obj\Debug\project2.exe
-D:\BC\VS_C\C#\DoNet-HW-\assignment4\assignment4\project2\obj\Debug\project2.pdb
