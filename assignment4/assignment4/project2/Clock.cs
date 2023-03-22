@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +22,7 @@ namespace project2
     //定义事件源
     public class Clock
     {
-       public static System.DateTime current = new System.DateTime(2023,3,17,12,0,0);
+       public static DateTime current = DateTime.Now;
         //声明事件
         public event TickEventHandler Tick;
         public event AlarmEventHandler Alarm;
