@@ -8,7 +8,7 @@ namespace assignment5
 {
    public  class OrderService
     {
-        public List<Order> OrderList = new List<Order>();//所有订单列表
+        private List<Order> OrderList = new List<Order>();//所有订单列表
         //添加订单
         public void AddOrder(Order order)
         {

@@ -8,7 +8,7 @@ namespace assignment5
 {
     public  class OrderDetails
     {
-        public string GoodsName { get; set; }
+       public string GoodsName { get; set; }
         public double Price { get; set; }
         public int Num { get; set; }
         public OrderDetails(string goods,double price,int num)
